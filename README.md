@@ -13,7 +13,7 @@
 ├─ README.md このファイル  
 ├─/docs Github Pagesのroot  
 &emsp;├─index.html 実験の説明画面(アクセスするとこれが表示)  
-&emsp;├─/explain_port index.html用画像  
+&emsp;├─/explain_vpn index.html用画像  
 &emsp;├─/Manual  
 &emsp;&emsp;├─manual.html マニュアル  
 &emsp;&emsp;├─style.css マニュアルのcss  
